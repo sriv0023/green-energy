@@ -3,7 +3,7 @@ function preloader() {
     imageList = [
         "/image/dollar.jpg",
         "/image/voucher.jpg",
-        "/image/dollar.jpg"
+        "/image/policy.jpg"
     ];
 
     image = [];
