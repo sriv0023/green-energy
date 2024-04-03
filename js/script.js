@@ -1,9 +1,9 @@
 function preloader() {
 
     imageList = [
-        "/image/dollar.jpg",
-        "/image/voucher.jpg",
-        "/image/policy.jpg"
+        "image/dollar.jpg",
+        "image/voucher.jpg",
+        "image/policy.jpg"
     ];
 
     image = [];
