@@ -26,7 +26,7 @@ body {
     font-weight: bolder;
     text-align:center;
     line-height: calc(var(--image-size) / 3);
-    background-image: url(/image/windmill.jpg);
+    background-image: url(../image/windmill.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
